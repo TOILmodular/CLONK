@@ -48,7 +48,8 @@ I created the Gerber files with the online tool EasyEDA and ordered the PCBs at 
 ## Components
 The module contains several SMD components:
 - LM13700 OTA IC (x2) - this IC is not being manufactured anymore as a THT component, but the SMD version is still available
-- 0.1uF capacitors (0603) - used as bypass caps for all ICs
+- 0.1uF capacitors - used as bypass caps for all ICs
+- MMBT3906 transistor (x3)
 
 All other components in the module are through-hole.
 
