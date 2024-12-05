@@ -49,10 +49,10 @@
 | Switch | DPDT | 2 | ON-ON |
 | Header | 2.54mm Male 1x9 | 1 | Connector Main Board |
 | Header | 2.54mm Male 1x8 | 1 | Connector Main Board |
+| Header | 2.54mm Male 1x6 | 1 | Connector Main Board |
 | Header | 2.54mm Male 1x5 | 1 | Connector Main Board |
-| Header | 2.54mm Male 1x4 | 1 | Connector Main Board |
 | Header | 2.54mm Female 1x9 | 1 | Connector Control Board |
 | Header | 2.54mm Female 1x8 | 1 | Connector Control Board |
+| Header | 2.54mm Female 1x6 | 1 | Connector Control Board |
 | Header | 2.54mm Female 1x5 | 1 | Connector Control Board |
-| Header | 2.54mm Female 1x4 | 1 | Connector Control Board |
 | Header | 2.54mm Male 2x5 | 1 | Power Connector |
