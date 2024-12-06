@@ -62,7 +62,7 @@ There are two trimmers at the back of the module, labeled "MOD CV TRIM" and "SIN
 
 #### SINE BIAS TRIM
 This trimmer is used to have the sine wave from the LFO oscillate evenly around 0V.
-1. Connect the module with a power source in a way that the backside of the module is accessible.
+1. Connect the module with a power supply in a way that the backside of the module is accessible.
 2. Touch the two connection points marked in the image below with the two probe pins of your oscilloscope.
 3. Check the waveform and adjust the bias via the trimmer to have the same maximum values for positive and negative voltage.
 <img width="200" src="https://github.com/user-attachments/assets/d4d738e4-27c5-4537-8f6b-a268e56103f0">
