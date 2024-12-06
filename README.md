@@ -22,6 +22,9 @@ The module also provides the option to add an external sound source, instead of 
 - Seprate outputs for the AD/AR and the enveloped LFO modulation
 - Attenuator for the enveloped modulation signal
 
+The MOD OUT signal is a combination of the envelope genrator and the LFO.
+<img width="500" src="https://github.com/user-attachments/assets/b5f39e47-4f76-4a90-8026-cef0063e9ced">
+
 The following graph shows the signal flow within the module.
 ![Clonk - Signal Flow](https://github.com/user-attachments/assets/5e6d9713-41c8-45ad-9d51-30e10c813854)
 
