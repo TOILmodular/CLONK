@@ -30,6 +30,10 @@ A demo of the module is shown in the following YouTube video.
 <img width="500" src="https://github.com/user-attachments/assets/ab825f1d-0798-4c44-b437-266522db0fba">
 
 ## Module Build and PCBs
+NOTE: One part of the calibration of this module requires an oscilloscope.
+This is for the internal LFO to swing evenly around 0V.
+The quality of the oscilloscope is not important, a visualization of the waveform is sufficent.
+
 I added two different versions for the control board in the folder GerberFiles, an "original", and a "Thonk" version.
 Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
 
@@ -57,7 +61,16 @@ All other components in the module are through-hole.
 There are two trimmers at the back of the module, labeled "MOD CV TRIM" and "SINE BIAS TRIM", which need to be adjusted after having completed the module.
 
 #### SINE BIAS TRIM
-xxx
+This trimmer is used to have the sine wave from the LFO swing evenly around 0V.
+1. Connect the module with a power source in a way that the backside of the module is accessible.
+2. Touch the two connection points marked in the image below with the two probe pins of your oscilloscope.
+3. Check the waveform and adjust the bias via the trimmer have the same maximum values for positive and negative voltage.
+<img width="200" src="https://github.com/user-attachments/assets/d4d738e4-27c5-4537-8f6b-a268e56103f0">
 
 #### MOD CV TRIM
-xxx
+This trimmer is used to adjust the output of the modulation CV to 0V when there is no gate signal applied.
+1. Ensure that no cable is plugged into GATE IN.
+2. Turn the knob MOD LEVEL fully clockwise.
+3. Plug in a patch cable to MOD OUT.
+4. Measure the voltage on that cable via a multimeter.
+5. Adjust the trimmer to get 0V. 
