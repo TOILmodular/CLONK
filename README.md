@@ -31,7 +31,7 @@ A demo of the module is shown in the following YouTube video.
 
 ## Module Build and PCBs
 NOTE: One part of the calibration of this module requires an oscilloscope.
-This is for the internal LFO to swing evenly around 0V.
+This is for the internal LFO to oscillate evenly around 0V.
 The quality of the oscilloscope is not important, a visualization of the waveform is sufficent.
 
 I added two different versions for the control board in the folder GerberFiles, an "original", and a "Thonk" version.
@@ -61,7 +61,7 @@ All other components in the module are through-hole.
 There are two trimmers at the back of the module, labeled "MOD CV TRIM" and "SINE BIAS TRIM", which need to be adjusted after having completed the module.
 
 #### SINE BIAS TRIM
-This trimmer is used to have the sine wave from the LFO swing evenly around 0V.
+This trimmer is used to have the sine wave from the LFO oscillate evenly around 0V.
 1. Connect the module with a power source in a way that the backside of the module is accessible.
 2. Touch the two connection points marked in the image below with the two probe pins of your oscilloscope.
 3. Check the waveform and adjust the bias via the trimmer to have the same maximum values for positive and negative voltage.
