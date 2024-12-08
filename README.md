@@ -55,7 +55,7 @@ I created the Gerber files with the online tool EasyEDA and ordered the PCBs at 
 ## Components
 The module contains several SMD components:
 - LM13700 OTA IC (x2) - this IC is not being manufactured anymore as a THT component, but the SMD version is still available
-- 0.1uF capacitors - used as bypass caps for all ICs
+- 0.1uF capacitor (x10) - used as bypass caps for all ICs
 - MMBT3906 transistor (x3)
 
 All other components in the module are through-hole.
@@ -66,7 +66,7 @@ There are two trimmers at the back of the module, labeled "MOD CV TRIM" and "SIN
 #### SINE BIAS TRIM
 This trimmer is used to have the sine wave from the LFO oscillate evenly around 0V.
 1. Connect the module with a power supply in a way that the backside of the module is accessible.
-2. Touch the two connection points marked in the image below with the two probe pins of your oscilloscope.
+2. Touch the two connection points marked in the image below with the two probe pins of an oscilloscope.
 3. Check the waveform and adjust the bias via the trimmer to have the same maximum values for positive and negative voltage.
 <img width="200" src="https://github.com/user-attachments/assets/d4d738e4-27c5-4537-8f6b-a268e56103f0">
 
