@@ -15,7 +15,7 @@ The module also provides the option to add an external sound source, instead of 
 - Simple internal sound source from a squarewave oscillator
 - Optional input for any external sound source
 - OTA filter with cutoff and resonance controls
-- Internal LFO (selectable sine or squarewave form, two selectable frequency ranges) for filter cutoff modutation
+- Internal LFO (selectable sine or square waveform, two selectable frequency ranges) for filter cutoff modutation
 - Optional input for any external modulation source
 - Simple AD/AR envelope generator, shaping the LFO modulation
 - Trigger or gate selection for an incoming gate signal to switch between AD and AR
