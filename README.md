@@ -26,7 +26,7 @@ The following graph shows the signal flow within the module.
 ![Clonk - Signal Flow](https://github.com/user-attachments/assets/5e6d9713-41c8-45ad-9d51-30e10c813854)
 
 The MOD OUT signal is a combination of the envelope generator and the LFO.
-<img width="500" src="https://github.com/user-attachments/assets/b5f39e47-4f76-4a90-8026-cef0063e9ced">
+<img width="500" src="https://github.com/user-attachments/assets/0d7e4d1c-0b95-4035-998e-08b460999668">
 
 A demo of the module is shown in the following YouTube video.
 
