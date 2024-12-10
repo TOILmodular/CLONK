@@ -1,11 +1,11 @@
 # CLONK
-This Eurorack module can be used as a sound source for metallic percussive sounds. But it can also be used as a CV source for different modulations. It has separate outputs from an attack-release/decay envelope generator, as well as from an LFO, modulated by that AD, which can be used itself as a CV modulation source.
+This Eurorack module can be used as a sound source for metallic or bell-type percussive or more weird sounds. But it can also be used as a CV source for different modulations. It has separate outputs from an attack-release/decay envelope generator, as well as from a CV modulation source, shaped by the envelope generator combined with an LFO.
 
 <img height="500" src="https://github.com/user-attachments/assets/96db2e1a-1eb1-4bf5-bf9d-814900f98777">
 <img height="500" src="https://github.com/user-attachments/assets/01fdf2ab-81c4-422e-82d2-e1cf02d714b9">
 
-<img height="500" src="https://github.com/user-attachments/assets/e47612d5-983c-4505-95b2-b1791560fdae">
-<img height="500" src="https://github.com/user-attachments/assets/58ad20f8-c897-42d6-bd8d-04398d937fd4">
+<img height="500" src="https://github.com/user-attachments/assets/121af24c-5a0e-4e40-9d0a-23eb0d9c9b17">
+<img height="500" src="https://github.com/user-attachments/assets/40bec67f-e790-4263-a8e9-e01e43feecfe">
 
 The module is based on the "Delayed Modulation" design from Music From Outerspace (Ray Wilson), combined with a simple squarewave sound source and an OTA filter.
 
@@ -30,7 +30,7 @@ The MOD OUT signal is a combination of the envelope genrator and the LFO.
 
 A demo of the module is shown in the following YouTube video.
 
-<img width="500" src="https://github.com/user-attachments/assets/ab825f1d-0798-4c44-b437-266522db0fba">
+<img width="500" src="https://github.com/user-attachments/assets/af391b94-9147-4144-a77f-e59831f1d98e">
 
 ## Module Build and PCBs
 NOTE: One part of the calibration of this module requires an oscilloscope.
