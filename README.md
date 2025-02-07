@@ -1,4 +1,4 @@
-# CLONK
+# CLONK - A sound modulation and modification Eurorack module
 This Eurorack module can be used as a sound source for metallic or bell-type percussive or more weird sounds. But it can also be used as a CV source for different modulations. It has separate outputs from an attack-release/decay envelope generator, as well as from a CV modulation source, shaped by the envelope generator combined with an LFO.
 
 <img height="500" src="https://github.com/user-attachments/assets/96db2e1a-1eb1-4bf5-bf9d-814900f98777">
