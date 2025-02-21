@@ -30,7 +30,7 @@ The MOD OUT signal is a combination of the envelope generator and the LFO.
 
 A demo of the module is shown in the following YouTube video.
 
-<img width="500" src="https://github.com/user-attachments/assets/af391b94-9147-4144-a77f-e59831f1d98e">
+[<img width="500" src="https://github.com/user-attachments/assets/af391b94-9147-4144-a77f-e59831f1d98e">](https://youtu.be/nXUKLmXg2uM)
 
 ## Module Build and PCBs
 NOTE: One part of the calibration of this module requires an oscilloscope.
