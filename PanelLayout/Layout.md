@@ -37,8 +37,6 @@ Coordinates origin is the lower left corner of the panel.
 ### HP Stadard Design
 For building the panel with a size following the HP standard, you can use the panel Gerber files provided in the folder "GerberFiles".
 
-There are two versions ("Orig" and "Thonk"), since the positions of some of the LEDs are slightly different, due to the jack size difference for the two versions.
-
 I ordered my own panel via such gerber file built out of PCB material.
 
 | Parameter | Value |
