@@ -4,7 +4,7 @@ The panel dimensions provided in the section "Original Design" below are based o
 
 ### Original Design
 Coordinates given in the table fit to the layout of components given in the PCBc in folder GerberFiles.
-The layout is slightly different for both versions due to different positions of the output LEDs. Details are given in the coordinates table below.
+Details are given in the coordinates table below.
 
 Panel size: 55mm x 128.5mm
 
